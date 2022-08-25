@@ -12,7 +12,7 @@ const GamerOver = ({menu}) => {
       <h2 className="sub_menu">Fim de Jogo</h2>
       <button className="botao_final" onClick={menu}>Menu Principal</button>
      <footer className="sub_menu"> 
-Developed by - Matheus Loubach <footer/>
+Developed by - Matheus Loubach </footer>
       </div>
     </div>
   )
