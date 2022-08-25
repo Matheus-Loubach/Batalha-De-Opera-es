@@ -1,0 +1,27 @@
+@media only screen and (max-width: 700px) {
+  
+  .container_ts button{
+    margin: 5px;
+  }
+  .container_ts h2, .score{
+    font-size: 20px;
+    padding: 1px;
+  }
+  .score span{
+    margin: 5px;
+  }
+  .container_ts span, .score span{
+    padding: 5px;
+  }
+
+.container_menu{
+  display: block;
+}
+
+body {
+  margin: 0;
+ padding: 0;
+ background: linear-gradient(360deg, rgb(0, 0, 0)75% , rgb(255, 255, 255)25%);
+}
+
+}
