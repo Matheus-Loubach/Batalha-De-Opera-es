@@ -1,4 +1,4 @@
-# Project Batalha de OperaÇões
+# Project Batalha de Operações
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
