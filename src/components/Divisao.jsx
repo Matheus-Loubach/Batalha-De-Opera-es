@@ -134,7 +134,7 @@ useEffect(()=>{
       </div>
       <div className="container_contas">
 
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} autocomplete="off">
 
       <p className="operacao">{num1} / {num2} = {num1 / num2 == userNumber ? <span style={{color: 'rgb(1, 243, 1)'}}>{userNumber}</span> : <span style={{color: 'red'}}>{userNumber}</span>} </p>
 

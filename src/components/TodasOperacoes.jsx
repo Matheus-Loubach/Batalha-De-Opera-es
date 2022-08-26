@@ -202,7 +202,7 @@ useEffect(()=>{
       </div>
 
       <div className="container_contas">
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} autocomplete="off">
       <p className="operacao">{num1} {sinal} {num2} = {userNumber}</p>
       <div>
       <input type="text" name="text" placeholder="Digite a resposta" required value={userNumber} onChange={(e) => setUserNumber(e.target.value)}/>

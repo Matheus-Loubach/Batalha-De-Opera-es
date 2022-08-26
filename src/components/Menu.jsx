@@ -14,7 +14,7 @@ const Menu = ({ModoAdicao, ModoSubtracao, ModoMultiplicacao, ModoDivisao, ModoTo
         <li><button onClick={ModoSubtracao} className="botao_inicial">Subtração</button></li>
         <li><button onClick={ModoMultiplicacao} className="botao_inicial">Multiplicação</button></li>
         <li><button onClick={ModoDivisao} className="botao_inicial">Divisão</button></li>
-        <li> <button onClick={ModoTodas} className="botao_inicial">Todas Operações</button></li>
+        <li> <button onClick={ModoTodas} className="botao_inicial">Todas</button></li>
       </ul>
       </div>
     </div>
