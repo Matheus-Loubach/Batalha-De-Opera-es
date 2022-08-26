@@ -38,6 +38,7 @@ li .botao_inicial{
   text-transform: uppercase;
   font-weight: 500;
   font-family: 'Times New Roman', Times;
+  margin-bottom: 5px;
 }
 
 .botao_final{

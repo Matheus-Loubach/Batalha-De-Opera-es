@@ -1,4 +1,5 @@
 import "./Menu.css"
+import "./ResponsiveMenu.css"
 
 
 const Menu = ({ModoAdicao, ModoSubtracao, ModoMultiplicacao, ModoDivisao, ModoTodas}) => {

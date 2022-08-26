@@ -138,7 +138,7 @@ useEffect(()=>{
       <p className="operacao">{num1} - {num2} = {num1 - num2 == userNumber ? <span style={{color: 'rgb(1, 243, 1)'}}>{userNumber}</span> : <span style={{color: 'red'}}>{userNumber}</span>} </p>
 
       <div>
-      <input type="text" name="text" placeholder="Digite a resposta" required value={userNumber} onChange={(e) => setUserNumber(e.target.value)}/>
+      <input type="number" name="text" placeholder="Digite a resposta" required value={userNumber} onChange={(e) => setUserNumber(e.target.value)}/>
       <button disabled={timer <= 0}>Enviar</button>
       </div>
 
