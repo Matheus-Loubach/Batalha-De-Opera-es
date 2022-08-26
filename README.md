@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Jogo de operações matematicas com o modo para cada operação
+
 ## Available Scripts
 
 In the project directory, you can run:
