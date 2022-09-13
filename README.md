@@ -17,7 +17,7 @@ Com utlização de hooks: UseEffect e UseState.
 
 #Totalmente responsivo Para Mobile
 
-Jogue: batalha-de-operacoes.vercel.app
+Jogue: https://www.batalha-de-operacoes.vercel.app
 
 ## Available Scripts
 
